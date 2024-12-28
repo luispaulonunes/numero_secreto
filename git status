@@ -1,0 +1,47 @@
+[33mcommit 0b1a8262f7acfaeef3610260c7b3d013207f9adc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: luispaulonunes <qtaltchepilchas@gmail.com>
+Date:   Sat Dec 28 14:38:53 2024 -0300
+
+    comitar chaves
+
+[33mcommit 11a1f37e35920823466ee9daaa9c464463b90b65[m
+Author: Q Tal Tchê Pilchas <qtaltchepilchas@gmail.com>
+Date:   Sat Dec 28 11:04:26 2024 -0300
+
+    Deixando o jogo mais facil
+
+[33mcommit e82791a2a09bc71f82d97c823f89866c1415d2dc[m
+Author: Q Tal Tchê Pilchas <qtaltchepilchas@gmail.com>
+Date:   Fri Dec 27 21:08:39 2024 -0300
+
+    Adicionar configurações do VSCode ao controle de versão
+
+[33mcommit 2d06eb74e865d8f579d699b6f39ed5cb1e0d7fe7[m
+Author: Q Tal Tchê Pilchas <qtaltchepilchas@gmail.com>
+Date:   Fri Dec 27 19:43:56 2024 -0300
+
+    Inclusão da meta tag
+
+[33mcommit 843a625d2e2b57c1b2b695fb0835f8b15ea2b9e4[m
+Author: Q Tal Tchê Pilchas <qtaltchepilchas@gmail.com>
+Date:   Fri Dec 27 17:45:03 2024 -0300
+
+    alteracao limite
+
+[33mcommit 14f3b4669a8de00e340b82afdb7cb61fec85f4ed[m
+Author: Q Tal Tchê Pilchas <qtaltchepilchas@gmail.com>
+Date:   Mon Dec 23 17:44:50 2024 -0300
+
+    Adicionando o arquivo .gitignore
+
+[33mcommit e51a1f6c5068e194e2ed8c8cb9c5926ce1ed1f62[m
+Author: Q Tal Tchê Pilchas <qtaltchepilchas@gmail.com>
+Date:   Mon Dec 23 15:28:18 2024 -0300
+
+    Atualizações em app.js e index.html
+
+[33mcommit d32f48871824843c3a308c5f316a299a8f7f7809[m
+Author: luispaulonunes <qtaltchepilchas@gmail.com>
+Date:   Wed Dec 18 23:10:18 2024 -0300
+
+    projeto inicial
